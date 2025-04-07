@@ -18,23 +18,26 @@
    - Консольная реализация шахмат с поддержкой основных правил.
    - Java, ООП.
 
-### 2. **[Weather App](./WeatherApp/README.md)**
+### 2. **[Weather App](https://github.com/Jezza010/WeatherApp)**
    - Получение прогноза погоды через API Яндекс.Погоды.
    - Java, API, JSON.
 
-### 3. **[Heroes Battle](./HeroesBattle/README.md)**
+### 3. **[Heroes Battle](https://github.com/Jezza010/AlExam)**
    - Симулятор сражений между героями с разными характеристиками.
    - Java, ООП.
 
-### 4. **[MyArrays](./MyArrays/README.md)**
+### 4. **[MyArrays/MyCollections](https://github.com/Jezza010/AlgHW)**
    - Работа с массивами без стандартных коллекций.
-   - Java, алгоритмы.
-
-### 5. **[MyCollections](./MyCollections/README.md)**
    - Реализация собственных коллекций (список, стек и т.д.).
-   - Java, структуры данных.
+   - Java, алгоритмы, структуры данных
 
----
+### 5. **[URL Shortener](https://github.com/Jezza010/JavaExam)**
+   - Сервис для сокращения длинных ссылок и перенаправления по короткому адресу.
+   - Java, REST API, коллекции, мапы.
+
+### 6. **[Personal Finance Tracker](https://github.com/Jezza010/OOP_Exam)**
+   - Простое консольное приложение для учета личных финансов с возможностью добавления и анализа трат.
+   - Java, ООП, коллекции, файловый ввод/вывод.
 
 ## О репозитории
 
