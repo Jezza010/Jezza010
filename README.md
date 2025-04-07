@@ -14,7 +14,7 @@
 
 ## Проекты
 
-### 1. **[Chess Game](./ChessGame)**
+### 1. **[Chess Game](Jezza010/ChessGame/README.md)**
    - Консольная реализация шахмат с поддержкой основных правил.
    - Java, ООП.
 
